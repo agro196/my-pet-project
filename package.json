@@ -22,8 +22,11 @@
     "eslint": "^8.45.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
+    "sharp": "^0.32.6",
+    "svgo": "^3.0.2",
     "typescript": "^5.0.2",
     "vite": "^4.4.5",
+    "vite-plugin-image-optimizer": "^1.1.7",
     "vite-plugin-svgr": "^4.1.0"
   }
 }
